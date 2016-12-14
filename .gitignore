@@ -1,0 +1,6 @@
+# ignore .class files
+*.class
+# ignore all binaries files
+/bin/*
+# include logo.jpg in bin directory
+!/bin/logo.jpg
